@@ -1,0 +1,36 @@
+[2024-08-06 00:40:43.660] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:252: Handling the coming chat completion request.
+[2024-08-06 00:40:43.660] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:275: Prepare the chat completion request.
+[2024-08-06 00:40:43.662] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:311: user: chatcmpl-3663403c-f3d8-46fc-b315-3004aa5f25b0
+[2024-08-06 00:41:33.063] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:399: Send the chat completion response.
+[2024-08-06 00:41:55.310] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:252: Handling the coming chat completion request.
+[2024-08-06 00:41:55.310] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:275: Prepare the chat completion request.
+[2024-08-06 00:41:55.311] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:311: user: chatcmpl-a75be627-4ee0-4ab1-a36d-898551223dc0
+[2024-08-06 00:42:02.235] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:399: Send the chat completion response.
+[2024-08-06 00:43:11.317] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:252: Handling the coming chat completion request.
+[2024-08-06 00:43:11.317] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:275: Prepare the chat completion request.
+[2024-08-06 00:43:11.319] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:311: user: chatcmpl-8b990ba6-b8c2-4464-814b-34478bb73bca
+[2024-08-06 00:43:34.414] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:399: Send the chat completion response.
+[2024-08-06 00:43:39.744] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:252: Handling the coming chat completion request.
+[2024-08-06 00:43:39.744] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:275: Prepare the chat completion request.
+[2024-08-06 00:43:39.745] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:311: user: chatcmpl-9022e670-8137-4ff6-9a56-4ee21efbabac
+[2024-08-06 00:43:43.728] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:399: Send the chat completion response.
+[2024-08-06 00:43:53.030] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:252: Handling the coming chat completion request.
+[2024-08-06 00:43:53.030] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:275: Prepare the chat completion request.
+[2024-08-06 00:43:53.031] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:311: user: chatcmpl-2edaecf6-bcc1-45c6-97c3-10b6e3edf6de
+[2024-08-06 00:44:51.092] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:399: Send the chat completion response.
+[2024-08-06 01:15:57.964] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:252: Handling the coming chat completion request.
+[2024-08-06 01:15:57.964] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:275: Prepare the chat completion request.
+[2024-08-06 01:15:57.966] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:311: user: chatcmpl-11676a1b-20fb-4635-82e3-94148d828285
+[2024-08-06 01:16:43.181] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:399: Send the chat completion response.
+[2024-08-06 01:17:14.781] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:252: Handling the coming chat completion request.
+[2024-08-06 01:17:14.781] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:275: Prepare the chat completion request.
+[2024-08-06 01:17:14.782] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:311: user: chatcmpl-a4daf967-3686-4ac0-b72c-ff2260c3eca1
+[2024-08-06 01:17:26.733] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:399: Send the chat completion response.
+[2024-08-06 01:22:53.884] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:252: Handling the coming chat completion request.
+[2024-08-06 01:22:53.884] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:275: Prepare the chat completion request.
+[2024-08-06 01:22:53.885] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:311: user: chatcmpl-b84096ab-7103-4f4a-90fd-e44979d55b1c
+[2024-08-06 01:23:26.552] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:399: Send the chat completion response.
+[2024-08-06 01:29:12.780] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:252: Handling the coming chat completion request.
+[2024-08-06 01:29:12.780] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:275: Prepare the chat completion request.
+[2024-08-06 01:29:12.782] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:311: user: chatcmpl-d0905e2c-ee3f-4487-8890-d2d2087f2c94
+[2024-08-06 01:29:39.564] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:399: Send the chat completion response.

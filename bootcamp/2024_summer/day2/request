@@ -1,0 +1,40 @@
+[2024-08-06 00:40:37.412] [info] llama_api_server in llama-api-server/src/main.rs:499: method: POST, endpoint: /v1/models, http_version: HTTP/1.1, content-length: 0
+[2024-08-06 00:40:43.660] [info] llama_api_server in llama-api-server/src/main.rs:499: method: POST, endpoint: /v1/chat/completions, http_version: HTTP/1.1, content-length: 157
+[2024-08-06 00:41:55.309] [info] llama_api_server in llama-api-server/src/main.rs:499: method: POST, endpoint: /v1/chat/completions, http_version: HTTP/1.1, content-length: 155
+[2024-08-06 00:43:11.316] [info] llama_api_server in llama-api-server/src/main.rs:499: method: POST, endpoint: /v1/chat/completions, http_version: HTTP/1.1, content-length: 155
+[2024-08-06 00:43:39.743] [info] llama_api_server in llama-api-server/src/main.rs:499: method: POST, endpoint: /v1/chat/completions, http_version: HTTP/1.1, content-length: 155
+[2024-08-06 00:43:53.029] [info] llama_api_server in llama-api-server/src/main.rs:499: method: POST, endpoint: /v1/chat/completions, http_version: HTTP/1.1, content-length: 157
+[2024-08-06 01:15:57.963] [info] llama_api_server in llama-api-server/src/main.rs:499: method: POST, endpoint: /v1/chat/completions, http_version: HTTP/1.1, content-length: 156
+[2024-08-06 01:17:14.780] [info] llama_api_server in llama-api-server/src/main.rs:499: method: POST, endpoint: /v1/chat/completions, http_version: HTTP/1.1, content-length: 179
+[2024-08-06 01:22:53.882] [info] llama_api_server in llama-api-server/src/main.rs:499: method: POST, endpoint: /v1/chat/completions, http_version: HTTP/1.1, content-length: 179
+[2024-08-06 01:29:12.779] [info] llama_api_server in llama-api-server/src/main.rs:499: method: POST, endpoint: /v1/chat/completions, http_version: HTTP/1.1, content-length: 179
+[2024-08-07 13:28:05.711] [info] llama_api_server in llama-api-server/src/main.rs:501: method: GET, endpoint: /, http_version: HTTP/1.1
+[2024-08-07 13:28:05.872] [info] llama_api_server in llama-api-server/src/main.rs:501: method: GET, endpoint: /_next/static/media/c9a5bc6a7c948fb0-s.p.woff2, http_version: HTTP/1.1
+[2024-08-07 13:28:05.885] [info] llama_api_server in llama-api-server/src/main.rs:501: method: GET, endpoint: /_next/static/chunks/pages/_app-011e65ecd3aaae37.js, http_version: HTTP/1.1
+[2024-08-07 13:28:05.892] [info] llama_api_server in llama-api-server/src/main.rs:501: method: GET, endpoint: /_next/static/css/eab6b7748fee2df4.css, http_version: HTTP/1.1
+[2024-08-07 13:28:05.897] [info] llama_api_server in llama-api-server/src/main.rs:501: method: GET, endpoint: /_next/static/chunks/webpack-59c5c889f52620d6.js, http_version: HTTP/1.1
+[2024-08-07 13:28:05.901] [info] llama_api_server in llama-api-server/src/main.rs:501: method: GET, endpoint: /_next/static/chunks/main-6260d066cf2cd7b1.js, http_version: HTTP/1.1
+[2024-08-07 13:28:05.908] [info] llama_api_server in llama-api-server/src/main.rs:501: method: GET, endpoint: /_next/static/chunks/framework-73b8966a3c579ab0.js, http_version: HTTP/1.1
+[2024-08-07 13:28:05.915] [info] llama_api_server in llama-api-server/src/main.rs:501: method: GET, endpoint: /_next/static/chunks/560-55f7864e37a55e86.js, http_version: HTTP/1.1
+[2024-08-07 13:28:05.950] [info] llama_api_server in llama-api-server/src/main.rs:501: method: GET, endpoint: /_next/static/chunks/pages/index-601572f5aa2ea426.js, http_version: HTTP/1.1
+[2024-08-07 13:28:05.955] [info] llama_api_server in llama-api-server/src/main.rs:501: method: GET, endpoint: /_next/static/chunks/542b50fd-07ebedc579cef971.js, http_version: HTTP/1.1
+[2024-08-07 13:28:05.969] [info] llama_api_server in llama-api-server/src/main.rs:501: method: GET, endpoint: /_next/static/6g4oD9UZNPFYuPRDzdrDz/_ssgManifest.js, http_version: HTTP/1.1
+[2024-08-07 13:28:05.974] [info] llama_api_server in llama-api-server/src/main.rs:501: method: GET, endpoint: /_next/static/6g4oD9UZNPFYuPRDzdrDz/_buildManifest.js, http_version: HTTP/1.1
+[2024-08-07 13:28:07.100] [info] llama_api_server in llama-api-server/src/main.rs:501: method: GET, endpoint: /v1/models, http_version: HTTP/1.1
+[2024-08-07 13:28:07.240] [info] llama_api_server in llama-api-server/src/main.rs:501: method: GET, endpoint: /favicon.ico, http_version: HTTP/1.1
+[2024-08-07 13:28:07.297] [info] llama_api_server in llama-api-server/src/main.rs:501: method: GET, endpoint: /llamaedge.svg, http_version: HTTP/1.1
+[2024-08-07 15:26:15.816] [info] llama_api_server in llama-api-server/src/main.rs:501: method: GET, endpoint: /, http_version: HTTP/1.1
+[2024-08-07 15:26:15.846] [info] llama_api_server in llama-api-server/src/main.rs:501: method: GET, endpoint: /_next/static/media/c9a5bc6a7c948fb0-s.p.woff2, http_version: HTTP/1.1
+[2024-08-07 15:26:15.853] [info] llama_api_server in llama-api-server/src/main.rs:501: method: GET, endpoint: /_next/static/css/eab6b7748fee2df4.css, http_version: HTTP/1.1
+[2024-08-07 15:26:15.929] [info] llama_api_server in llama-api-server/src/main.rs:501: method: GET, endpoint: /_next/static/chunks/webpack-59c5c889f52620d6.js, http_version: HTTP/1.1
+[2024-08-07 15:26:15.937] [info] llama_api_server in llama-api-server/src/main.rs:501: method: GET, endpoint: /_next/static/chunks/framework-73b8966a3c579ab0.js, http_version: HTTP/1.1
+[2024-08-07 15:26:15.943] [info] llama_api_server in llama-api-server/src/main.rs:501: method: GET, endpoint: /_next/static/chunks/560-55f7864e37a55e86.js, http_version: HTTP/1.1
+[2024-08-07 15:26:15.954] [info] llama_api_server in llama-api-server/src/main.rs:501: method: GET, endpoint: /_next/static/chunks/main-6260d066cf2cd7b1.js, http_version: HTTP/1.1
+[2024-08-07 15:26:15.960] [info] llama_api_server in llama-api-server/src/main.rs:501: method: GET, endpoint: /_next/static/chunks/pages/_app-011e65ecd3aaae37.js, http_version: HTTP/1.1
+[2024-08-07 15:26:15.964] [info] llama_api_server in llama-api-server/src/main.rs:501: method: GET, endpoint: /_next/static/chunks/pages/index-601572f5aa2ea426.js, http_version: HTTP/1.1
+[2024-08-07 15:26:15.969] [info] llama_api_server in llama-api-server/src/main.rs:501: method: GET, endpoint: /_next/static/chunks/542b50fd-07ebedc579cef971.js, http_version: HTTP/1.1
+[2024-08-07 15:26:15.989] [info] llama_api_server in llama-api-server/src/main.rs:501: method: GET, endpoint: /_next/static/6g4oD9UZNPFYuPRDzdrDz/_buildManifest.js, http_version: HTTP/1.1
+[2024-08-07 15:26:15.994] [info] llama_api_server in llama-api-server/src/main.rs:501: method: GET, endpoint: /_next/static/6g4oD9UZNPFYuPRDzdrDz/_ssgManifest.js, http_version: HTTP/1.1
+[2024-08-07 15:26:17.150] [info] llama_api_server in llama-api-server/src/main.rs:501: method: GET, endpoint: /v1/models, http_version: HTTP/1.1
+[2024-08-07 15:26:17.233] [info] llama_api_server in llama-api-server/src/main.rs:501: method: GET, endpoint: /favicon.ico, http_version: HTTP/1.1
+[2024-08-07 15:26:17.245] [info] llama_api_server in llama-api-server/src/main.rs:501: method: GET, endpoint: /llamaedge.svg, http_version: HTTP/1.1

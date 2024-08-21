@@ -1,0 +1,6 @@
+[2024-08-06 00:40:37.413] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:24: Handling the coming model list request.
+[2024-08-06 00:40:37.415] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:71: Send the model list response.
+[2024-08-07 13:28:07.100] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:24: Handling the coming model list request.
+[2024-08-07 13:28:07.238] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:71: Send the model list response.
+[2024-08-07 15:26:17.150] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:24: Handling the coming model list request.
+[2024-08-07 15:26:17.151] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:71: Send the model list response.

@@ -1,0 +1,170 @@
+[2024-08-06 00:09:51.488] [info] llama_api_server in llama-api-server/src/main.rs:137: server version: 0.13.0
+[2024-08-06 00:09:51.488] [info] llama_api_server in llama-api-server/src/main.rs:145: model_name: default
+[2024-08-06 00:09:51.488] [info] llama_api_server in llama-api-server/src/main.rs:154: model_alias: default
+[2024-08-06 00:09:51.488] [info] llama_api_server in llama-api-server/src/main.rs:173: ctx_size: 4096
+[2024-08-06 00:09:51.489] [info] llama_api_server in llama-api-server/src/main.rs:192: batch_size: 512
+[2024-08-06 00:09:51.489] [info] llama_api_server in llama-api-server/src/main.rs:206: prompt_template: phi-3-chat
+[2024-08-06 00:09:51.489] [info] llama_api_server in llama-api-server/src/main.rs:219: n_predict: 1024
+[2024-08-06 00:09:51.489] [info] llama_api_server in llama-api-server/src/main.rs:222: n_gpu_layers: 100
+[2024-08-06 00:09:51.490] [info] llama_api_server in llama-api-server/src/main.rs:243: temp: 1
+[2024-08-06 00:09:51.490] [info] llama_api_server in llama-api-server/src/main.rs:246: top_p: 1
+[2024-08-06 00:09:51.490] [info] llama_api_server in llama-api-server/src/main.rs:249: repeat_penalty: 1.1
+[2024-08-06 00:09:51.490] [info] llama_api_server in llama-api-server/src/main.rs:252: presence_penalty: 0
+[2024-08-06 00:09:51.490] [info] llama_api_server in llama-api-server/src/main.rs:255: frequency_penalty: 0
+[2024-08-06 00:11:24.680] [info] llama_api_server in llama-api-server/src/main.rs:137: server version: 0.13.0
+[2024-08-06 00:11:24.680] [info] llama_api_server in llama-api-server/src/main.rs:145: model_name: default
+[2024-08-06 00:11:24.681] [info] llama_api_server in llama-api-server/src/main.rs:154: model_alias: default
+[2024-08-06 00:11:24.681] [info] llama_api_server in llama-api-server/src/main.rs:173: ctx_size: 4096
+[2024-08-06 00:11:24.681] [info] llama_api_server in llama-api-server/src/main.rs:192: batch_size: 512
+[2024-08-06 00:11:24.682] [info] llama_api_server in llama-api-server/src/main.rs:206: prompt_template: phi-3-chat
+[2024-08-06 00:11:24.682] [info] llama_api_server in llama-api-server/src/main.rs:219: n_predict: 1024
+[2024-08-06 00:11:24.682] [info] llama_api_server in llama-api-server/src/main.rs:222: n_gpu_layers: 100
+[2024-08-06 00:11:24.682] [info] llama_api_server in llama-api-server/src/main.rs:243: temp: 1
+[2024-08-06 00:11:24.682] [info] llama_api_server in llama-api-server/src/main.rs:246: top_p: 1
+[2024-08-06 00:11:24.683] [info] llama_api_server in llama-api-server/src/main.rs:249: repeat_penalty: 1.1
+[2024-08-06 00:11:24.683] [info] llama_api_server in llama-api-server/src/main.rs:252: presence_penalty: 0
+[2024-08-06 00:11:24.683] [info] llama_api_server in llama-api-server/src/main.rs:255: frequency_penalty: 0
+[2024-08-06 00:19:51.679] [info] llama_api_server in llama-api-server/src/main.rs:137: server version: 0.13.0
+[2024-08-06 00:19:51.679] [info] llama_api_server in llama-api-server/src/main.rs:145: model_name: default
+[2024-08-06 00:19:51.679] [info] llama_api_server in llama-api-server/src/main.rs:154: model_alias: default
+[2024-08-06 00:19:51.679] [info] llama_api_server in llama-api-server/src/main.rs:173: ctx_size: 4096
+[2024-08-06 00:19:51.680] [info] llama_api_server in llama-api-server/src/main.rs:192: batch_size: 512
+[2024-08-06 00:19:51.680] [info] llama_api_server in llama-api-server/src/main.rs:206: prompt_template: phi-3-chat
+[2024-08-06 00:19:51.680] [info] llama_api_server in llama-api-server/src/main.rs:219: n_predict: 1024
+[2024-08-06 00:19:51.680] [info] llama_api_server in llama-api-server/src/main.rs:222: n_gpu_layers: 100
+[2024-08-06 00:19:51.680] [info] llama_api_server in llama-api-server/src/main.rs:243: temp: 1
+[2024-08-06 00:19:51.681] [info] llama_api_server in llama-api-server/src/main.rs:246: top_p: 1
+[2024-08-06 00:19:51.681] [info] llama_api_server in llama-api-server/src/main.rs:249: repeat_penalty: 1.1
+[2024-08-06 00:19:51.681] [info] llama_api_server in llama-api-server/src/main.rs:252: presence_penalty: 0
+[2024-08-06 00:19:51.681] [info] llama_api_server in llama-api-server/src/main.rs:255: frequency_penalty: 0
+[2024-08-06 00:22:59.464] [info] llama_api_server in llama-api-server/src/main.rs:137: server version: 0.13.0
+[2024-08-06 00:22:59.464] [info] llama_api_server in llama-api-server/src/main.rs:145: model_name: default
+[2024-08-06 00:22:59.465] [info] llama_api_server in llama-api-server/src/main.rs:154: model_alias: default
+[2024-08-06 00:22:59.465] [info] llama_api_server in llama-api-server/src/main.rs:173: ctx_size: 4096
+[2024-08-06 00:22:59.465] [info] llama_api_server in llama-api-server/src/main.rs:192: batch_size: 512
+[2024-08-06 00:22:59.465] [info] llama_api_server in llama-api-server/src/main.rs:206: prompt_template: phi-3-chat
+[2024-08-06 00:22:59.465] [info] llama_api_server in llama-api-server/src/main.rs:219: n_predict: 1024
+[2024-08-06 00:22:59.466] [info] llama_api_server in llama-api-server/src/main.rs:222: n_gpu_layers: 100
+[2024-08-06 00:22:59.466] [info] llama_api_server in llama-api-server/src/main.rs:243: temp: 1
+[2024-08-06 00:22:59.466] [info] llama_api_server in llama-api-server/src/main.rs:246: top_p: 1
+[2024-08-06 00:22:59.466] [info] llama_api_server in llama-api-server/src/main.rs:249: repeat_penalty: 1.1
+[2024-08-06 00:22:59.466] [info] llama_api_server in llama-api-server/src/main.rs:252: presence_penalty: 0
+[2024-08-06 00:22:59.466] [info] llama_api_server in llama-api-server/src/main.rs:255: frequency_penalty: 0
+[2024-08-06 00:39:55.443] [info] llama_api_server in llama-api-server/src/main.rs:137: server version: 0.13.0
+[2024-08-06 00:39:55.444] [info] llama_api_server in llama-api-server/src/main.rs:145: model_name: default
+[2024-08-06 00:39:55.444] [info] llama_api_server in llama-api-server/src/main.rs:154: model_alias: default
+[2024-08-06 00:39:55.444] [info] llama_api_server in llama-api-server/src/main.rs:173: ctx_size: 4096
+[2024-08-06 00:39:55.444] [info] llama_api_server in llama-api-server/src/main.rs:192: batch_size: 512
+[2024-08-06 00:39:55.444] [info] llama_api_server in llama-api-server/src/main.rs:206: prompt_template: phi-3-chat
+[2024-08-06 00:39:55.444] [info] llama_api_server in llama-api-server/src/main.rs:219: n_predict: 1024
+[2024-08-06 00:39:55.445] [info] llama_api_server in llama-api-server/src/main.rs:222: n_gpu_layers: 100
+[2024-08-06 00:39:55.445] [info] llama_api_server in llama-api-server/src/main.rs:243: temp: 1
+[2024-08-06 00:39:55.445] [info] llama_api_server in llama-api-server/src/main.rs:246: top_p: 1
+[2024-08-06 00:39:55.445] [info] llama_api_server in llama-api-server/src/main.rs:249: repeat_penalty: 1.1
+[2024-08-06 00:39:55.445] [info] llama_api_server in llama-api-server/src/main.rs:252: presence_penalty: 0
+[2024-08-06 00:39:55.445] [info] llama_api_server in llama-api-server/src/main.rs:255: frequency_penalty: 0
+[2024-08-06 00:40:20.689] [info] llama_api_server in llama-api-server/src/main.rs:416: plugin_ggml_version: b2963 (commit 95fb0aef)
+[2024-08-06 00:40:20.689] [info] llama_api_server in llama-api-server/src/main.rs:426: socket_address: 0.0.0.0:8080
+[2024-08-06 00:42:21.025] [info] llama_api_server in llama-api-server/src/main.rs:137: server version: 0.13.0
+[2024-08-06 00:42:21.026] [info] llama_api_server in llama-api-server/src/main.rs:145: model_name: default
+[2024-08-06 00:42:21.026] [info] llama_api_server in llama-api-server/src/main.rs:154: model_alias: default
+[2024-08-06 00:42:21.026] [info] llama_api_server in llama-api-server/src/main.rs:173: ctx_size: 4096
+[2024-08-06 00:42:21.026] [info] llama_api_server in llama-api-server/src/main.rs:192: batch_size: 512
+[2024-08-06 00:42:21.026] [info] llama_api_server in llama-api-server/src/main.rs:206: prompt_template: phi-3-chat
+[2024-08-06 00:42:21.026] [info] llama_api_server in llama-api-server/src/main.rs:219: n_predict: 1024
+[2024-08-06 00:42:21.027] [info] llama_api_server in llama-api-server/src/main.rs:222: n_gpu_layers: 100
+[2024-08-06 00:42:21.027] [info] llama_api_server in llama-api-server/src/main.rs:243: temp: 1
+[2024-08-06 00:42:21.027] [info] llama_api_server in llama-api-server/src/main.rs:246: top_p: 1
+[2024-08-06 00:42:21.027] [info] llama_api_server in llama-api-server/src/main.rs:249: repeat_penalty: 1.1
+[2024-08-06 00:42:21.027] [info] llama_api_server in llama-api-server/src/main.rs:252: presence_penalty: 0
+[2024-08-06 00:42:21.027] [info] llama_api_server in llama-api-server/src/main.rs:255: frequency_penalty: 0
+[2024-08-06 00:42:52.174] [info] llama_api_server in llama-api-server/src/main.rs:416: plugin_ggml_version: b2963 (commit 95fb0aef)
+[2024-08-06 00:42:52.174] [info] llama_api_server in llama-api-server/src/main.rs:426: socket_address: 0.0.0.0:8080
+[2024-08-06 01:15:21.344] [info] llama_api_server in llama-api-server/src/main.rs:137: server version: 0.13.0
+[2024-08-06 01:15:21.345] [info] llama_api_server in llama-api-server/src/main.rs:145: model_name: default
+[2024-08-06 01:15:21.345] [info] llama_api_server in llama-api-server/src/main.rs:154: model_alias: default
+[2024-08-06 01:15:21.345] [info] llama_api_server in llama-api-server/src/main.rs:173: ctx_size: 4096
+[2024-08-06 01:15:21.345] [info] llama_api_server in llama-api-server/src/main.rs:192: batch_size: 512
+[2024-08-06 01:15:21.346] [info] llama_api_server in llama-api-server/src/main.rs:206: prompt_template: phi-3-chat
+[2024-08-06 01:15:21.346] [info] llama_api_server in llama-api-server/src/main.rs:219: n_predict: 1024
+[2024-08-06 01:15:21.346] [info] llama_api_server in llama-api-server/src/main.rs:222: n_gpu_layers: 100
+[2024-08-06 01:15:21.346] [info] llama_api_server in llama-api-server/src/main.rs:243: temp: 1
+[2024-08-06 01:15:21.346] [info] llama_api_server in llama-api-server/src/main.rs:246: top_p: 1
+[2024-08-06 01:15:21.346] [info] llama_api_server in llama-api-server/src/main.rs:249: repeat_penalty: 1.1
+[2024-08-06 01:15:21.346] [info] llama_api_server in llama-api-server/src/main.rs:252: presence_penalty: 0
+[2024-08-06 01:15:21.346] [info] llama_api_server in llama-api-server/src/main.rs:255: frequency_penalty: 0
+[2024-08-06 01:15:41.506] [info] llama_api_server in llama-api-server/src/main.rs:416: plugin_ggml_version: b2963 (commit 95fb0aef)
+[2024-08-06 01:15:41.507] [info] llama_api_server in llama-api-server/src/main.rs:426: socket_address: 0.0.0.0:8080
+[2024-08-06 01:18:59.162] [info] llama_api_server in llama-api-server/src/main.rs:137: server version: 0.13.0
+[2024-08-06 01:18:59.162] [info] llama_api_server in llama-api-server/src/main.rs:145: model_name: default
+[2024-08-06 01:18:59.162] [info] llama_api_server in llama-api-server/src/main.rs:154: model_alias: default
+[2024-08-06 01:18:59.162] [info] llama_api_server in llama-api-server/src/main.rs:173: ctx_size: 4096
+[2024-08-06 01:18:59.163] [info] llama_api_server in llama-api-server/src/main.rs:192: batch_size: 512
+[2024-08-06 01:18:59.163] [info] llama_api_server in llama-api-server/src/main.rs:206: prompt_template: phi-3-chat
+[2024-08-06 01:18:59.163] [info] llama_api_server in llama-api-server/src/main.rs:219: n_predict: 1024
+[2024-08-06 01:18:59.163] [info] llama_api_server in llama-api-server/src/main.rs:222: n_gpu_layers: 100
+[2024-08-06 01:18:59.163] [info] llama_api_server in llama-api-server/src/main.rs:243: temp: 1
+[2024-08-06 01:18:59.163] [info] llama_api_server in llama-api-server/src/main.rs:246: top_p: 1
+[2024-08-06 01:18:59.163] [info] llama_api_server in llama-api-server/src/main.rs:249: repeat_penalty: 1.1
+[2024-08-06 01:18:59.163] [info] llama_api_server in llama-api-server/src/main.rs:252: presence_penalty: 0
+[2024-08-06 01:18:59.164] [info] llama_api_server in llama-api-server/src/main.rs:255: frequency_penalty: 0
+[2024-08-06 01:19:29.206] [info] llama_api_server in llama-api-server/src/main.rs:416: plugin_ggml_version: b2963 (commit 95fb0aef)
+[2024-08-06 01:19:29.207] [info] llama_api_server in llama-api-server/src/main.rs:426: socket_address: 0.0.0.0:8080
+[2024-08-06 01:28:33.183] [info] llama_api_server in llama-api-server/src/main.rs:137: server version: 0.13.0
+[2024-08-06 01:28:33.183] [info] llama_api_server in llama-api-server/src/main.rs:145: model_name: default
+[2024-08-06 01:28:33.183] [info] llama_api_server in llama-api-server/src/main.rs:154: model_alias: default
+[2024-08-06 01:28:33.183] [info] llama_api_server in llama-api-server/src/main.rs:173: ctx_size: 4096
+[2024-08-06 01:28:33.183] [info] llama_api_server in llama-api-server/src/main.rs:192: batch_size: 512
+[2024-08-06 01:28:33.184] [info] llama_api_server in llama-api-server/src/main.rs:206: prompt_template: phi-3-chat
+[2024-08-06 01:28:33.184] [info] llama_api_server in llama-api-server/src/main.rs:219: n_predict: 1024
+[2024-08-06 01:28:33.184] [info] llama_api_server in llama-api-server/src/main.rs:222: n_gpu_layers: 100
+[2024-08-06 01:28:33.184] [info] llama_api_server in llama-api-server/src/main.rs:243: temp: 1
+[2024-08-06 01:28:33.184] [info] llama_api_server in llama-api-server/src/main.rs:246: top_p: 1
+[2024-08-06 01:28:33.184] [info] llama_api_server in llama-api-server/src/main.rs:249: repeat_penalty: 1.1
+[2024-08-06 01:28:33.185] [info] llama_api_server in llama-api-server/src/main.rs:252: presence_penalty: 0
+[2024-08-06 01:28:33.185] [info] llama_api_server in llama-api-server/src/main.rs:255: frequency_penalty: 0
+[2024-08-06 01:28:56.555] [info] llama_api_server in llama-api-server/src/main.rs:416: plugin_ggml_version: b2963 (commit 95fb0aef)
+[2024-08-06 01:28:56.555] [info] llama_api_server in llama-api-server/src/main.rs:426: socket_address: 0.0.0.0:8080
+[2024-08-06 01:34:25.843] [info] llama_api_server in llama-api-server/src/main.rs:137: server version: 0.13.0
+[2024-08-06 01:34:25.981] [info] llama_api_server in llama-api-server/src/main.rs:145: model_name: default
+[2024-08-06 01:34:25.981] [info] llama_api_server in llama-api-server/src/main.rs:154: model_alias: default
+[2024-08-06 01:34:25.981] [info] llama_api_server in llama-api-server/src/main.rs:173: ctx_size: 4096
+[2024-08-06 01:34:25.981] [info] llama_api_server in llama-api-server/src/main.rs:192: batch_size: 512
+[2024-08-06 01:34:25.981] [info] llama_api_server in llama-api-server/src/main.rs:206: prompt_template: phi-3-chat
+[2024-08-06 01:34:25.982] [info] llama_api_server in llama-api-server/src/main.rs:219: n_predict: 1024
+[2024-08-06 01:34:25.982] [info] llama_api_server in llama-api-server/src/main.rs:222: n_gpu_layers: 100
+[2024-08-06 01:34:25.982] [info] llama_api_server in llama-api-server/src/main.rs:243: temp: 1
+[2024-08-06 01:34:25.982] [info] llama_api_server in llama-api-server/src/main.rs:246: top_p: 1
+[2024-08-06 01:34:25.982] [info] llama_api_server in llama-api-server/src/main.rs:249: repeat_penalty: 1.1
+[2024-08-06 01:34:25.982] [info] llama_api_server in llama-api-server/src/main.rs:252: presence_penalty: 0
+[2024-08-06 01:34:25.982] [info] llama_api_server in llama-api-server/src/main.rs:255: frequency_penalty: 0
+[2024-08-07 13:27:25.919] [info] llama_api_server in llama-api-server/src/main.rs:137: server version: 0.13.0
+[2024-08-07 13:27:25.919] [info] llama_api_server in llama-api-server/src/main.rs:145: model_name: default
+[2024-08-07 13:27:25.919] [info] llama_api_server in llama-api-server/src/main.rs:154: model_alias: default
+[2024-08-07 13:27:25.919] [info] llama_api_server in llama-api-server/src/main.rs:173: ctx_size: 4096
+[2024-08-07 13:27:25.920] [info] llama_api_server in llama-api-server/src/main.rs:192: batch_size: 512
+[2024-08-07 13:27:25.920] [info] llama_api_server in llama-api-server/src/main.rs:206: prompt_template: phi-3-chat
+[2024-08-07 13:27:25.920] [info] llama_api_server in llama-api-server/src/main.rs:219: n_predict: 1024
+[2024-08-07 13:27:25.920] [info] llama_api_server in llama-api-server/src/main.rs:222: n_gpu_layers: 100
+[2024-08-07 13:27:25.921] [info] llama_api_server in llama-api-server/src/main.rs:243: temp: 1
+[2024-08-07 13:27:25.921] [info] llama_api_server in llama-api-server/src/main.rs:246: top_p: 1
+[2024-08-07 13:27:25.921] [info] llama_api_server in llama-api-server/src/main.rs:249: repeat_penalty: 1.1
+[2024-08-07 13:27:25.921] [info] llama_api_server in llama-api-server/src/main.rs:252: presence_penalty: 0
+[2024-08-07 13:27:25.922] [info] llama_api_server in llama-api-server/src/main.rs:255: frequency_penalty: 0
+[2024-08-07 13:27:56.016] [info] llama_api_server in llama-api-server/src/main.rs:416: plugin_ggml_version: b2963 (commit 95fb0aef)
+[2024-08-07 13:27:56.017] [info] llama_api_server in llama-api-server/src/main.rs:426: socket_address: 0.0.0.0:8080
+[2024-08-07 15:25:51.131] [info] llama_api_server in llama-api-server/src/main.rs:137: server version: 0.13.0
+[2024-08-07 15:25:51.131] [info] llama_api_server in llama-api-server/src/main.rs:145: model_name: default
+[2024-08-07 15:25:51.132] [info] llama_api_server in llama-api-server/src/main.rs:154: model_alias: default
+[2024-08-07 15:25:51.132] [info] llama_api_server in llama-api-server/src/main.rs:173: ctx_size: 4096
+[2024-08-07 15:25:51.132] [info] llama_api_server in llama-api-server/src/main.rs:192: batch_size: 512
+[2024-08-07 15:25:51.132] [info] llama_api_server in llama-api-server/src/main.rs:206: prompt_template: phi-3-chat
+[2024-08-07 15:25:51.132] [info] llama_api_server in llama-api-server/src/main.rs:219: n_predict: 1024
+[2024-08-07 15:25:51.132] [info] llama_api_server in llama-api-server/src/main.rs:222: n_gpu_layers: 100
+[2024-08-07 15:25:51.132] [info] llama_api_server in llama-api-server/src/main.rs:243: temp: 1
+[2024-08-07 15:25:51.133] [info] llama_api_server in llama-api-server/src/main.rs:246: top_p: 1
+[2024-08-07 15:25:51.133] [info] llama_api_server in llama-api-server/src/main.rs:249: repeat_penalty: 1.1
+[2024-08-07 15:25:51.133] [info] llama_api_server in llama-api-server/src/main.rs:252: presence_penalty: 0
+[2024-08-07 15:25:51.133] [info] llama_api_server in llama-api-server/src/main.rs:255: frequency_penalty: 0
+[2024-08-07 15:25:55.062] [info] llama_api_server in llama-api-server/src/main.rs:416: plugin_ggml_version: b2963 (commit 95fb0aef)
+[2024-08-07 15:25:55.063] [info] llama_api_server in llama-api-server/src/main.rs:426: socket_address: 0.0.0.0:8080

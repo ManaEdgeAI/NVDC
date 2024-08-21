@@ -1,0 +1,9 @@
+[2024-08-06 00:41:33.063] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:372: Finish chat completions in non-stream mode
+[2024-08-06 00:42:02.098] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:372: Finish chat completions in non-stream mode
+[2024-08-06 00:43:34.413] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:372: Finish chat completions in non-stream mode
+[2024-08-06 00:43:43.727] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:372: Finish chat completions in non-stream mode
+[2024-08-06 00:44:51.089] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:372: Finish chat completions in non-stream mode
+[2024-08-06 01:16:43.180] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:372: Finish chat completions in non-stream mode
+[2024-08-06 01:17:26.732] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:372: Finish chat completions in non-stream mode
+[2024-08-06 01:23:26.548] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:372: Finish chat completions in non-stream mode
+[2024-08-06 01:29:39.561] [info] llama_api_server::backend::ggml in llama-api-server/src/backend/ggml.rs:372: Finish chat completions in non-stream mode
